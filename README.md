@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Personalized Menstrual Insights**
 
-- 🌱 I’m currently learning **Data Management using excel,Data Science Toolbox: Python Programming**
+- 🌱 I’m currently learning **Data Management using Excel, Data Science Toolbox: Python Programming**
 
 - 📫 How to reach me **riyakumarirk08@gmail.com**
 
